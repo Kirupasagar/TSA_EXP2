@@ -61,6 +61,7 @@ resampled_data['#Passengers'].plot(kind='line',color='blue',marker='o') #alpha=0
 resampled_data['Linear Trend'].plot(kind='line',color='black',linestyle='--')
 resampled_data['#Passengers'].plot(kind='line',color='blue',marker='o')
 resampled_data['Polynomial Trend'].plot(kind='line',color='black',marker='o')
+```
 
 
 
